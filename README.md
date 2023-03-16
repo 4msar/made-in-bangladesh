@@ -32,6 +32,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [theanam/otp-without-db](https://github.com/theanam/otp-without-db#readme) - OTP authentication helper library that works without any database.
     * [fa7ad/spotprox](https://github.com/fa7ad/spotprox) - Automatically find a free US proxy for spotify
     * [sarim/ibus-avro](https://github.com/sarim/ibus-avro) - Avro phonetic bangla typing layout for ibus
+    * [4msar/probhat](https://github.com/4msar/probhat/) - Probhat bangla keyboard layout for web
     * [proshoumma/ReForum](https://github.com/proshoumma/ReForum) - A minimal forum board application. Built on top of React, Express (with PassportJS for OAuth) and MongoDB.
     * [proshoumma/react-native-off-canvas-menu](https://github.com/proshoumma/react-native-off-canvas-menu) - Beautifully crafted off canvas menu components for react native applications. Built on top of react-native's Animated library.
     * [proshoumma/organigram](https://github.com/proshoumma/organigram) - A JSON based tree structure with drag and drop functionally to re-arrange the tree.
